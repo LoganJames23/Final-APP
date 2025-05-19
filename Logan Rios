@@ -1,0 +1,6 @@
+git init
+git add calculator.py
+git commit -m "Initial commit - calculator app"
+git branch -M main
+git remote add origin https://github.com/LoganJames23/calculator-app.git
+git push -u origin main
